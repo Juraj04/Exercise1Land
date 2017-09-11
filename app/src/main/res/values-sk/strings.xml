@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Cvičenie1</string>
+    <string name="hello">Ahoj svet</string>
+    <string name="helloland">Ahoj svet poležiačky</string>
+    <string name="otherString">Toto je len zafarbený text</string>
+</resources>
